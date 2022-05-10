@@ -7,6 +7,6 @@ Przy paru milionach prób.
 ## Technologia:
 Całość napisana w C#
 
-## Uzycie 
+## Uzycie: 
 Program gotowy do uruchomienia
 W 14 i 43 linijce mozna zmienić ilość wywołań funkcji
